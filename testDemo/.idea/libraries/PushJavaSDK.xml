@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PushJavaSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/PushJavaSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
